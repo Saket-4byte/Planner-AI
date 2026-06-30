@@ -1,0 +1,6 @@
+{
+  "name": "Saver.AI — The Autonomous AI Productivity OS",
+  "description": "An autonomous AI productivity operating system featuring the Navigator AI Coach, emergency panic protocols, time outcome simulator, and developer performance telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
